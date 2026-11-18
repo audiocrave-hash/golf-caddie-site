@@ -2,5 +2,5 @@
 
 Landing page and Android APK downloads for **Golf Caddie** by JNY apps.
 
-- Site: https://golf-caddie-ausomeapps.vercel.app (Vercel) · mirror: https://audiocrave-hash.github.io/golf-caddie-site/
-- Latest APK: `download/GolfCaddie-latest.apk` (zip: `download/GolfCaddie-latest.zip`)
+- Site: https://golfcaddie-ph.vercel.app (Vercel) · mirror: https://audiocrave-hash.github.io/golf-caddie-site/
+- Latest APK: https://golfcaddie-ph.vercel.app/download/GolfCaddie-latest.apk (zip: /download/GolfCaddie-latest.zip)
